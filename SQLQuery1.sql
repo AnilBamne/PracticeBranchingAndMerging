@@ -1,0 +1,1 @@
+Select * from transaction_log_loyalty
